@@ -6,7 +6,7 @@ import Directory from '../components/directory/directory.component';
 const HomePage = () => (
     <div className='homepage'>
         <h1>WELCOME TO CRWN CLOTHING</h1>
-       <Directory/>
+        <Directory />
     </div>
 );
 export default HomePage;
